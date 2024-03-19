@@ -2,7 +2,7 @@
 
 간단한 도형으로 기하 문제풀이를 시작해 봅시다.
 
-## [27323: 직사각형	다국어](https://www.acmicpc.net/problem/27323)
+## [27323: 직사각형](https://www.acmicpc.net/problem/27323)
 
 직사각형의 넓이를 구하는 문제
 
@@ -10,7 +10,7 @@
 
 직사각형과 점의 거리를 구하는 문제
 
-## [3009: 네 번째 점	다국어](https://www.acmicpc.net/problem/3009)
+## [3009: 네 번째 점](https://www.acmicpc.net/problem/3009)
 
 직사각형을 완성하는 문제
 
@@ -22,11 +22,11 @@
 
 옥구슬을 모두 포함하는 직사각형을 찾는 문제
 
-## [10101: 삼각형 외우기	다국어](https://www.acmicpc.net/problem/10101)
+## [10101: 삼각형 외우기](https://www.acmicpc.net/problem/10101)
 
 각도를 보고 삼각형을 판별하고 분류하는 문제
 
-## [5073: 삼각형과 세 변	다국어](https://www.acmicpc.net/problem/5073)
+## [5073: 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
 
 변의 길이를 보고 삼각형을 판별하고 분류하는 문제
 
