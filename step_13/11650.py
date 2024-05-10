@@ -6,5 +6,5 @@ for _ in range(n):
     points.append((x, y))
 
 sorted_points = sorted(points)
-for point in sorted_points:
+for point in sorted(points):
     print(point[0], point[1])
